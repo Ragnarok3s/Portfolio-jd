@@ -10,7 +10,6 @@
 
 body{
     font-family: "Poppins", sans-serif;
-    background: pink;
 }
 
 html{
@@ -177,7 +176,7 @@ section{
     margin: auto 0;
 }
 
-.profile-img{
+.profile-imga{
     border-radius: 50rem;
 }
 
