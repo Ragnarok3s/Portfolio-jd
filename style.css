@@ -36,6 +36,7 @@ nav{
     justify-content: space-around;
     align-items: center;
     height: 17vh;
+    border-bottom: 0.1rem solid red;
 }
 
 .nav-links{
@@ -59,6 +60,12 @@ a:hover{
 
 .logo{
     font-size: 2rem;
+    font-weight: 600;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: black;
+    cursor: pointer;
+
 }
 
 .logo:hover{
